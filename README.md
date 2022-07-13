@@ -1,6 +1,6 @@
 # Auto-correct for Vim / Neovim
 
-A Vim script which uses Vim's built-in abbreviations feature as an auto-correct for common misspellings.
+An auto-correct spelling script for Vim / Neovim using Vim's built-in abbreviations feature
 
 ## To use the script
 
