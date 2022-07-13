@@ -72,7 +72,6 @@ ab decor décor
 ab decors décors
 ab decoupage découpage
 ab degage dégagé
-ab deja vu déjà vu
 ab demode démodé
 ab denoument dénoument
 ab derailleur dérailleur
@@ -215,7 +214,6 @@ ab senora señora
 ab senoras señoras
 ab senorita señorita
 ab senoritas señoritas
-ab sinn fein Sinn Féin
 ab smorgasbord smörgåsbord
 ab smorgasbords smörgåsbords
 ab smorgastarta smörgåstårta
@@ -623,7 +621,6 @@ ab aswell as well
 ab asetic ascetic
 ab aisian Asian
 ab asside aside
-ab askt he ask the
 ab asphyxation asphyxiation
 ab assisnate assassinate
 ab assassintation assassination
@@ -838,7 +835,6 @@ ab bussiness business
 ab busineses businesses
 ab buisnessman businessman
 ab butthe but the
-ab byt he by the
 ab ceasar Caesar
 ab casion caisson
 ab caluclate calculate
@@ -1610,7 +1606,6 @@ ab docuement documents
 ab documnets documents
 ab doens does
 ab doese does
-ab doe snot does not
 ab doign doing
 ab doimg doing
 ab doind doing
@@ -1991,7 +1986,6 @@ ab firends friends
 ab freinds friends
 ab frmo from
 ab frome from
-ab fromt he from the
 ab fromthe from the
 ab froniter frontier
 ab fufill fulfill
@@ -2641,7 +2635,6 @@ ab matheticians mathematicians
 ab mathmaticians mathematicians
 ab mathamatics mathematics
 ab mathematicas mathematics
-ab may of may have
 ab mccarthyst mccarthyist
 ab meaninng meaning
 ab menat meant
@@ -2652,7 +2645,7 @@ ab mediciney mediciny
 ab medeival medieval
 ab medevial medieval
 ab medievel medieval
-ab mediterainnean mediterranean
+ab mediterainnean Mediterranean
 ab mediteranean Mediterranean
 ab meerkrat meerkat
 ab memeber member
@@ -2755,9 +2748,9 @@ ab omre more
 ab moreso more so
 ab morisette Morissette
 ab morrisette Morissette
-ab morroccan moroccan
-ab morrocco morocco
-ab morroco morocco
+ab morroccan Moroccan
+ab morrocco Morocco
+ab morroco Morocco
 ab morgage mortgage
 ab motiviated motivated
 ab mottos mottoes
@@ -2909,7 +2902,6 @@ ab ouevre oeuvre
 ab fo of
 ab ofits of its
 ab ofthe of the
-ab oft he of the
 ab offereings offerings
 ab offcers officers
 ab offical official
@@ -3657,7 +3649,6 @@ ab safty safety
 ab saidhe said he
 ab saidit said it
 ab saidthat said that
-ab saidt he said the
 ab saidthe said the
 ab salery salary
 ab smae same
@@ -3761,7 +3752,6 @@ ab signifantly significantly
 ab significently significantly
 ab signifigantly significantly
 ab signfies signifies
-ab silicone chip silicon chip
 ab simalar similar
 ab similiar similar
 ab simmilar similar
@@ -3786,7 +3776,6 @@ ab smoothe smooth
 ab smoothes smooths
 ab sneeks sneaks
 ab snese sneeze
-ab sot hat so that
 ab soical social
 ab socalism socialism
 ab socities societies
@@ -3823,8 +3812,8 @@ ab soverign sovereign
 ab sovereignity sovereignty
 ab soverignity sovereignty
 ab soverignty sovereignty
-ab soveits soviets
-ab soveits soviets(x
+ab soveits Soviets
+ab soveits Soviets
 ab spoace space
 ab spainish Spanish
 ab speciallized specialised
@@ -4190,7 +4179,6 @@ ab througout throughout
 ab tiget tiger
 ab tiem time
 ab timne time
-ab tot he to the
 ab tothe to the
 ab tabacco tobacco
 ab tobbaco tobacco
@@ -4288,7 +4276,6 @@ ab uncontitutional unconstitutional
 ab unconvential unconventional
 ab undecideable undecidable
 ab indefineable undefinable
-ab undert he under the
 ab undreground underground
 ab udnerstand understand
 ab understnad understand
@@ -4460,7 +4447,6 @@ ab warrriors warriors
 ab wass was
 ab weas was
 ab ws was
-ab wa snot was not
 ab wya way
 ab wayword wayward
 ab weaponary weaponry
