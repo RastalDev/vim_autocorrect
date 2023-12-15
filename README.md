@@ -7,8 +7,14 @@ An auto-correct spelling script for Vim / Neovim using Vim's built-in abbreviati
 - The script must be sourced in your .vimrc for Vim (or init.vim for Neovim)
 - Add `source <full PATH to the vim_autocorrect script>`
 
+## Developer(s)
+
+This repository is maintained by:
+
+| [![RastalDev](https://github.com/rastaldev.png?size=100)](https://github.com/rastaldev) |
+| --------------------------------------------------------------------------------------- |
+| [RastalDev](https://github.com/rastaldev)                                               |
+
 ## License
 
-This script is licensed under [GPLv3](https://github.com/RastalDev/vim_autocorrect/blob/master/LICENSE)
-
-![gpl_image](https://github.com/RastalDev/vim_autocorrect/blob/master/gplv3.png)
+![gpl_image](./gplv3.png)
