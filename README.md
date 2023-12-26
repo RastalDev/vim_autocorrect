@@ -1,6 +1,8 @@
 # Auto-correct for Vim / Neovim
 
-An auto-correct spelling script for Vim / Neovim using Vim's built-in abbreviations feature
+An auto-correct spelling script for Vim / Neovim using Vim's built-in abbreviations feature.
+
+![screenshot.gif](./screenshot.gif)
 
 ## To use the script
 
