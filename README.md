@@ -2,6 +2,8 @@
 
 An auto-correct spelling script for Vim / Neovim using Vim's built-in abbreviations feature.
 
+Type an incorrectly spelled word, hit `SPACE`, the script will automatically correct the word.
+
 ![screenshot.gif](./screenshot.gif)
 
 ## To use the script
