@@ -1,5 +1,7 @@
 # Auto-correct for Vim / Neovim
 
+![Static Badge](https://img.shields.io/badge/Made%20in%20-%20Vimscript%20-%20Blue) ![Static Badge](https://img.shields.io/badge/License%20-%20GPL%20v.3%20-%20Green)
+
 An auto-correct spelling script for Vim / Neovim using Vim's built-in abbreviations feature.
 
 Type an incorrectly spelled word, hit `SPACE`, the script will automatically correct the word.
